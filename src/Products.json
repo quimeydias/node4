@@ -1,0 +1,42 @@
+[
+	{
+		"id": 2,
+		"title": "modificado",
+		"price": 29.99,
+		"thumbnail": "https://example.com/product2.jpg",
+		"code": "DEF456",
+		"stock": 30
+	},
+	{
+		"id": 3,
+		"title": "Producto 3",
+		"price": 39.99,
+		"thumbnail": "https://example.com/product3.jpg",
+		"code": "GHI789",
+		"stock": 20
+	},
+	{
+		"id": 4,
+		"title": "dwdawdada",
+		"price": "3232",
+		"thumbnail": "dwdawdd",
+		"code": "dwdawdawdawdaw",
+		"stock": "233334343"
+	},
+	{
+		"id": 5,
+		"title": "dddadwdad",
+		"price": "323",
+		"thumbnail": "dwdadaw",
+		"code": "dwadad",
+		"stock": "2232"
+	},
+	{
+		"id": 6,
+		"title": "dwadw",
+		"price": "34343",
+		"thumbnail": "addd",
+		"code": "dawdawd",
+		"stock": "43434"
+	}
+]
